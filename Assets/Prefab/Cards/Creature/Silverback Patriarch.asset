@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26a5f43d4ece054298b593db2b7678d, type: 3}
+  m_Name: Silverback Patriarch
+  m_EditorClassIdentifier: 
+  name: Silverback Patriarch
+  type: creature
+  owner: 
+  description: Taunt
+  artwork: {fileID: 21300000, guid: 518b828b613135b4b9530c1cf6ef3cb1, type: 3}
+  manaCost: 3
+  defaultAttack: 2
+  attack: 2
+  defaultHealth: 3
+  health: 3

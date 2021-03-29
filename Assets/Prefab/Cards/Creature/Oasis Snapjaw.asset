@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26a5f43d4ece054298b593db2b7678d, type: 3}
+  m_Name: Oasis Snapjaw
+  m_EditorClassIdentifier: 
+  name: Oasis Snapjaw
+  type: creature
+  owner: 
+  description: 
+  artwork: {fileID: 21300000, guid: 14ac5739450600d4d8fd38e46fd36f45, type: 3}
+  manaCost: 4
+  defaultAttack: 2
+  attack: 2
+  defaultHealth: 7
+  health: 7

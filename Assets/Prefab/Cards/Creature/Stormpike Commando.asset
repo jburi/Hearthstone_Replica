@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f26a5f43d4ece054298b593db2b7678d, type: 3}
+  m_Name: Stormpike Commando
+  m_EditorClassIdentifier: 
+  name: Stormpike Commando
+  type: creature
+  owner: 
+  description: Battlecry - Deal 2 damage
+  artwork: {fileID: 21300000, guid: 80538dacc15d15a46a5ec85f9c550172, type: 3}
+  manaCost: 5
+  defaultAttack: 4
+  attack: 4
+  defaultHealth: 2
+  health: 2
